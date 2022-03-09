@@ -1,5 +1,3 @@
-
-
 create TRIGGER diminuir_estoque_de_produtos_delete
 ON pedidos_produtos 
 AFTER DELETE
